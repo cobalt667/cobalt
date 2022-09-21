@@ -10,7 +10,7 @@
 "user": ["owKXO6hM3jiaQ9ROdJqCbrSahWtg","owKXO6rCoy-Utc3PKU_tYnapA8Mg"],
  
 # 信息配置
-good morning
+
 # 和风天气apikey
 "weather_key": "ccfe4594666641c18a85fc8df3548eaf",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
